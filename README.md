@@ -76,7 +76,7 @@ Verify the integrity of your download:
 - **File:** `PixVeda-macOS.zip`
 - **SHA-256 Checksum:**
   ```text
-  f90baa98720c05ca942a0a80a6be3d28536629ecf159f4c9c9f5ca18df37c8d1
+  0693256a7227a224d962eb5694374bf17428dae2af28087146c08c16e2de662a
   ```
 
 ---
